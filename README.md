@@ -1,1 +1,1 @@
-I am currently working on multi-region solvers on openFOAM.
+I am currently working on multi-region solvers of openFOAM.
